@@ -1,0 +1,171 @@
+[
+  {
+    "station": "EDLW_TWR",
+    "courses": {
+      "EDLW TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1269"
+    }
+  },
+  {
+    "station": "EDLW_GND",
+    "courses": {
+      "EDLW TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1269"
+    }
+  },
+  {
+    "station": "EDLP_TWR",
+    "courses": {
+      "EDLP TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1320"
+    }
+  },
+  {
+    "station": "EDLP_GND",
+    "courses": {
+      "EDLP TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1320"
+    }
+  },
+  {
+    "station": "EDDG_TWR",
+    "courses": {
+      "EDDG TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1232"
+    }
+  },
+  {
+    "station": "EDDG_GND",
+    "courses": {
+      "EDDG TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1232"
+    }
+  },
+  {
+    "station": "EDFM_TWR",
+    "courses": {
+      "EDFM TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1272"
+    }
+  },
+  {
+    "station": "EDFH_TWR",
+    "courses": {
+      "EDFH TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1275"
+    }
+  },
+  {
+    "station": "EDFH_GND",
+    "courses": {
+      "EDFH TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1275"
+    }
+  },
+  {
+    "station": "EDDR_TWR",
+    "courses": {
+      "EDDR TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1276"
+    }
+  },
+  {
+    "station": "EDDR_GND",
+    "courses": {
+      "EDDR TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1276"
+    }
+  },
+  {
+    "station": "EDSB_TWR",
+    "courses": {
+      "EDSB TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1280"
+    }
+  },
+  {
+    "station": "EDSB_GND",
+    "courses": {
+      "EDSB TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1280"
+    }
+  },
+  {
+    "station": "EDMA_TWR",
+    "courses": {
+      "EDMA TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1287"
+    }
+  },
+  {
+    "station": "EDQM_TWR",
+    "courses": {
+      "EDQM TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1284"
+    }
+  },
+  {
+    "station": "EDMO_TWR",
+    "courses": {
+      "EDMO TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1282"
+    }
+  },
+  {
+    "station": "EDJA_TWR",
+    "courses": {
+      "EDJA TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1288"
+    }
+  },
+  {
+    "station": "EDJA_GND",
+    "courses": {
+      "EDJA GND": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1288"
+    }
+  },
+  {
+    "station": "EDAH_TWR",
+    "courses": {
+      "EDAH TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1292"
+    }
+  },
+  {
+    "station": "EDHL_TWR",
+    "courses": {
+      "EDHL TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1295"
+    }
+  },
+  {
+    "station": "EDHL_GND",
+    "courses": {
+      "EDHL TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1296"
+    }
+  },
+  {
+    "station": "EDVE_TWR",
+    "courses": {
+      "EDVE TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1298"
+    }
+  },
+  {
+    "station": "EDVK_TWR",
+    "courses": {
+      "EDVK TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1300"
+    }
+  },
+  {
+    "station": "EDVK_GND",
+    "courses": {
+      "EDVK TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1300"
+    }
+  },
+  {
+    "station": "EDXW_TWR",
+    "courses": {
+      "EDXW TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1304"
+    }
+  },
+  {
+    "station": "EDDV_TWR",
+    "courses": {
+      "EDDV TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=995",
+      "EDDV DEL+GND": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"
+    }
+  },
+  {
+    "station": "EDDV_GND",
+    "courses": {
+      "EDDV DEL+GND": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"
+    }
+  },
+  {
+    "station": "EDDV_DEL",
+    "courses": {
+      "EDDV DEL+GND": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"
+    }
+  }
+]
