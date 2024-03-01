@@ -1,0 +1,32 @@
+[
+  {
+    "station": "EDMA_TWR",
+    "courses": {
+      "EDMA TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1287"
+    }
+  },
+  {
+    "station": "EDQM_TWR",
+    "courses": {
+      "EDQM TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1284"
+    }
+  },
+  {
+    "station": "EDMO_TWR",
+    "courses": {
+      "EDMO TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1282"
+    }
+  },
+  {
+    "station": "EDJA_TWR",
+    "courses": {
+      "EDJA TWR": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1288"
+    }
+  },
+  {
+    "station": "EDJA_GND",
+    "courses": {
+      "EDJA GND": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1288"
+    }
+  }
+]
