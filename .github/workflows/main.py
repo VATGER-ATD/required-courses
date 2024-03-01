@@ -35,5 +35,6 @@ def load_and_append_json_files(filesnames: list[str]):
 
 if __name__ == '__main__':
     filenames = ['edgg.json', 'edmm.json', 'edww.json']
+    format_and_sort_json_files(filenames)
     load_and_append_json_files(filenames)
     format_and_sort_json_files(['courses.json'])
