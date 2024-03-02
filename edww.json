@@ -1,1 +1,106 @@
-[{"station": "EDAH_TWR", "courses": [{"name": "EDAH TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1292"}], "fir": "EDWW"}, {"station": "EDHL_TWR", "courses": [{"name": "EDHL TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1295"}], "fir": "EDWW"}, {"station": "EDHL_GND", "courses": [{"name": "EDHL TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1296"}], "fir": "EDWW"}, {"station": "EDVE_TWR", "courses": [{"name": "EDVE TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1298"}], "fir": "EDWW"}, {"station": "EDVK_TWR", "courses": [{"name": "EDVK TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1300"}], "fir": "EDWW"}, {"station": "EDVK_GND", "courses": [{"name": "EDVK TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1300"}], "fir": "EDWW"}, {"station": "EDXW_TWR", "courses": [{"name": "EDXW TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1304"}], "fir": "EDWW"}, {"station": "EDDV_TWR", "courses": [{"name": "EDDV TWR", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=995"}, {"name": "EDDV DEL+GND", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"}], "fir": "EDWW"}, {"station": "EDDV_GND", "courses": [{"name": "EDDV DEL+GND", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"}], "fir": "EDWW"}, {"station": "EDDV_DEL", "courses": [{"name": "EDDV DEL+GND", "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"}], "fir": "EDWW"}]
+[
+  {
+    "station": "EDAH_TWR",
+    "courses": [
+      {
+        "name": "EDAH TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1292"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDHL_TWR",
+    "courses": [
+      {
+        "name": "EDHL TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1295"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDHL_GND",
+    "courses": [
+      {
+        "name": "EDHL TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1296"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDVE_TWR",
+    "courses": [
+      {
+        "name": "EDVE TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1298"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDVK_TWR",
+    "courses": [
+      {
+        "name": "EDVK TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1300"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDVK_GND",
+    "courses": [
+      {
+        "name": "EDVK TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1300"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDXW_TWR",
+    "courses": [
+      {
+        "name": "EDXW TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1304"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDDV_TWR",
+    "courses": [
+      {
+        "name": "EDDV TWR",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=995"
+      },
+      {
+        "name": "EDDV DEL+GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDDV_GND",
+    "courses": [
+      {
+        "name": "EDDV DEL+GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"
+      }
+    ],
+    "fir": "EDWW"
+  },
+  {
+    "station": "EDDV_DEL",
+    "courses": [
+      {
+        "name": "EDDV DEL+GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=991"
+      }
+    ],
+    "fir": "EDWW"
+  }
+]
