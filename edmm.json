@@ -48,5 +48,25 @@
       }
     ],
     "fir": "EDMM"
+  },
+  {
+    "station": "EDDN_GND",
+    "courses": [
+      {
+        "name": "EDDN GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1332"
+      }
+    ],
+    "fir": "EDMM"
+  },
+  {
+    "station": "EDDN_TWR",
+    "courses": [
+      {
+        "name": "EDDN GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1332"
+      }
+    ],
+    "fir": "EDMM"
   }
 ]
