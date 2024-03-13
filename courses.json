@@ -221,7 +221,7 @@
     "station": "EDJA_GND",
     "courses": [
       {
-        "name": "EDJA GND",
+        "name": "EDJA TWR",
         "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1288"
       }
     ],
