@@ -44,7 +44,11 @@
     "courses": [
       {
         "name": "EDDG TWR",
-        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1232"
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1356"
+      },
+      {
+        "name": "EDDG GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1377"
       }
     ],
     "fir": "EDGG"
@@ -53,8 +57,8 @@
     "station": "EDDG_GND",
     "courses": [
       {
-        "name": "EDDG TWR",
-        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1232"
+        "name": "EDDG GND",
+        "link": "https://moodle.vatsim-germany.org/mod/quiz/view.php?id=1377"
       }
     ],
     "fir": "EDGG"
